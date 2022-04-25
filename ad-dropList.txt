@@ -1,0 +1,5 @@
+! Title: AD-Drop
+! Description: Adblocklist for uBlock Origin and brave
+! Homepage: https://github.com/lavaswimmer/AD-Drop
+! Expires: 3 days (update frequency)
+!#include https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt
